@@ -1,0 +1,12 @@
+.mustafa{
+    background-color: coral;
+    height: 10rem;
+    padding: 5rem;
+}
+
+.text{
+    color: darkblue;
+    background-color: cornflowerblue;
+    text-align: right;
+    margin: 3rem;
+}
